@@ -1,0 +1,4 @@
+data/lot_photos/
+__pycache__/
+*.pyc
+output/

@@ -1,0 +1,8 @@
+address,sale_price,finished_sqft,lot_size_sqft,bedrooms,bathrooms,sale_date,view_quality,neighborhood,privacy_score,location_prestige,new_construction_premium,architectural_quality
+"101 Sunset Plaza, Pacific Palisades, CA",12500000,9000,10000,6,7,2024-10-12,ocean,Upper Palisades,9,9,0.10,9
+"202 Crestline Rd, Pacific Palisades, CA",9800000,7800,12500,5,6,2024-07-18,canyon,Lower Palisades,8,8,0.08,8
+"303 Palisades Peak, Pacific Palisades, CA",11000000,8500,15000,5,6,2023-11-03,ocean,Upper Palisades,10,10,0.12,10
+"POST-FIRE EXCLUDED - 404 New Build Dr",14000000,9500,11000,6,7,2025-03-15,ocean,Upper Palisades,9,9,0.12,9
+"BELOW-PRICE EXCLUDED - 505 Budget Lane",3200000,4000,8000,3,3,2024-05-01,none,Lower Palisades,5,5,0.02,5
+"MISSING-DATE EXCLUDED - 606 No Date Rd",8500000,7500,9000,5,6,,ocean,Upper Palisades,8,8,0.09,8
+"MISSING-SQFT EXCLUDED - 707 Bare Land",7000000,,12000,4,4,2023-08-10,canyon,Lower Palisades,7,7,0.07,7

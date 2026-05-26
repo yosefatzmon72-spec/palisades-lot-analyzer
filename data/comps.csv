@@ -1,0 +1,4 @@
+address,sale_price,finished_sqft,lot_size_sqft,bedrooms,bathrooms,sale_date,view_quality,privacy_score,location_prestige,new_construction_premium,architectural_quality
+"101 Sunset Plaza, Pacific Palisades, CA",12500000,9000,6,7,2024-10-12,ocean,9,9,0.1,9
+"202 Crestline Rd, Pacific Palisades, CA",9800000,7800,5,6,2024-07-18,canyon,8,8,0.08,8
+"303 Palisades Peak, Pacific Palisades, CA",11000000,8500,5,6,2023-11-03,ocean,10,10,0.12,10
